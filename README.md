@@ -1,4 +1,4 @@
-# UX-UI_Works (Figma)
+# UX-UI (Figma)
 
 ### Web Engineering Project
 ![Web_Engineering_Project](https://github.com/GokulNath20/UX-UI_Works/assets/61192087/00356e1b-72eb-4d39-9124-cbc0b57e330a)
